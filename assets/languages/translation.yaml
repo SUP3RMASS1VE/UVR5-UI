@@ -1,0 +1,1152 @@
+en:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+es:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): Si
+    te gusta UVR5 UI puedes darle una estrella a mi repo en [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Prueba
+    UVR5 UI en Hugging Face con una A100 [aqu ](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Selecciona el modelo
+  Select the output format: Selecciona el formato de salida
+  Larger consumes more resources, but may give better results: Un tama o m s grande
+    consume m s recursos, pero puede dar mejores resultados
+  Segment size: Tama o del segmento
+  Override model default segment size instead of using the model default value: Anular
+    el tama o del segmento predeterminado del modelo en lugar de usar el valor predeterminado
+    del modelo
+  Override segment size: Anular tama o del segmento
+  Amount of overlap between prediction windows: Cantidad de superposici n entre ventanas
+    de predicci n
+  Overlap: Superposici n
+  Larger consumes more RAM but may process slightly faster: M s grande consume m s
+    RAM pero puede procesar un poco m s r pido
+  Batch size: Tama o del lote
+  The threshold for audio normalization: El umbral para la normalizaci n del audio
+  Normalization threshold: Umbral de normalizaci n
+  The threshold for audio amplification: El umbral para la amplificaci n de audio
+  Amplification threshold: Umbral de amplificaci n
+  Advanced settings: Configuraci n avanzada
+  Input audio: Audio de entrada
+  Link: Link
+  Paste the link here: Pega el link aqu
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : Puedes pegar el enlace al video/audio desde muchos sitios, revisa la lista completa
+    [aqu ](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Descargar!
+  Separation by link: Separaci n por link
+  Input path: Ruta de entrada
+  Place the input path here: Coloca la ruta de entrada aqu
+  Output path: Ruta de salida
+  Place the output path here: Coloca la ruta de salida aqu
+  Separate!: Separar!
+  Output information: Informaci n de la salida
+  Batch separation: Separaci n por lotes
+  Stem 1: Pista 1
+  Stem 2: Pista 2
+  Usually called stride in neural networks; only change if you know what you're doing: Generalmente
+    llamado paso en redes neuronales; solo cambialo si sabes lo que est s haciendo
+  Hop length: Longitud del salto
+  Enable denoising during separation: Habilitar la eliminaci n de ruido durante la
+    separaci n
+  Denoise: Eliminaci n de ruido
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Equilibra
+    la calidad y la velocidad. 1024 = m s r pido pero de menor calidad, 320 = m s
+    lento pero de mejor calidad
+  Window size: Tama o de la ventana
+  Intensity of primary stem extraction: Intensidad de extracci n de la pista primaria
+  Agression: Agresi n
+  Enable Test-Time-Augmentation; slow but improves quality: Habilitar Aumento del
+    Tiempo de Prueba; lento pero mejora la calidad
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identifica
+    artefactos sobrantes en la salida vocal; puede mejorar la separaci n de algunas
+    canciones
+  Post process: Posproceso
+  Threshold for post-processing: Umbral para el posprocesamiento
+  Post process threshold: Umbral de posproceso
+  Mirror the missing frequency range of the output: Reflejar el rango de frecuencia
+    faltante de la salida
+  High end process: Procesamiento de alto rendimiento
+  Number of predictions with random shifts, higher = slower but better quality: N
+    mero de predicciones con desplazamientos temporales, mayor = m s lento pero mejor
+    calidad
+  Shifts: Desplazamientos temporales
+  Size of segments into which the audio is split. Higher = slower but better quality: Tama
+    o de los segmentos en los que se divide el audio. M s alto = m s lento pero de
+    mejor calidad
+  Enable segment-wise processing: Habilitar el procesamiento por segmentos
+  Segment-wise processing: Procesamiento por segmentos
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Pista 3
+  Stem 4: Pista 4
+  Stem 5: Pista 5
+  Stem 6: Pista 6
+  Select the theme you want to use. (Requires restarting the App): Selecciona el tema
+    que deseas utilizar. (Requiere reiniciar la aplicaci n)
+  Theme: Tema
+  Themes: Temas
+  Credits: Cr ditos
+it:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): Se
+    ti piace UVR5 UI puoi aggiungere una stella al mio repository su [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Prova
+    UVR5 UI su Hugging Face con A100 [qui](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Seleziona il modello
+  Select the output format: Seleziona il formato di output
+  Larger consumes more resources, but may give better results: Dimensioni maggiori
+    consumano pi  risorse, ma potrebbero dare risultati migliori
+  Segment size: Dimensione del segmento
+  Override model default segment size instead of using the model default value: Sovrascrivi
+    la dimensione di segmento predefinita del modello invece di utilizzare il valore
+    predefinito del modello
+  Override segment size: Ignora dimensione segmento
+  Amount of overlap between prediction windows: Quantit  di sovrapposizione tra le
+    finestre di predizione
+  Overlap: Sovrapposizione
+  Larger consumes more RAM but may process slightly faster: Pi  grande consuma pi
+    RAM ma potrebbe elaborare leggermente pi  velocemente
+  Batch size: Dimensione del batch
+  The threshold for audio normalization: La soglia per la normalizzazione dell'audio
+  Normalization threshold: Soglia di normalizzazione
+  The threshold for audio amplification: La soglia per l'amplificazione dell'audio
+  Amplification threshold: Soglia di amplificazione
+  Advanced settings: Impostazioni avanzate
+  Input audio: Audio di input
+  Link: Link
+  Paste the link here: Incolla il link qui
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : Puoi incollare il link al video/audio da molti siti, controlla la lista completa
+    [qui](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Scarica!
+  Separation by link: Separazione tramite link
+  Input path: Percorso di input
+  Place the input path here: Inserisci il percorso di input qui
+  Output path: Percorso di output
+  Place the output path here: Inserisci il percorso di output qui
+  Separate!: Separa!
+  Output information: Informazioni di output
+  Batch separation: Separazione in batch
+  Stem 1: Traccia 1
+  Stem 2: Traccia 2
+  Usually called stride in neural networks; only change if you know what you're doing: Solitamente
+    chiamato passo nelle reti neurali; cambialo solo se sai cosa stai facendo
+  Hop length: Lunghezza del salto
+  Enable denoising during separation: Abilita la riduzione del rumore durante la separazione
+  Denoise: Riduzione del rumore
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Bilancia
+    la qualit  e la velocit . 1024 = veloce ma inferiore, 320 = pi  lento ma migliore
+    qualit
+  Window size: Dimensione della finestra
+  Intensity of primary stem extraction: Intensit  dell'estrazione della traccia primaria
+  Agression: Aggressivit
+  Enable Test-Time-Augmentation; slow but improves quality: Abilita l'Aumento del
+    Tempo di Prova; lento ma migliora la qualit
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identifica
+    gli artefatti residui nell'output vocale; potrebbe migliorare la separazione per
+    alcune canzoni
+  Post process: Post-elaborazione
+  Threshold for post-processing: Soglia per la post-elaborazione
+  Post process threshold: Soglia di post-elaborazione
+  Mirror the missing frequency range of the output: Rifletti l'intervallo di frequenze
+    mancante dell'output
+  High end process: Elaborazione ad alte prestazion
+  Number of predictions with random shifts, higher = slower but better quality: Numero
+    di predizioni con spostamenti casuali, maggiore = pi  lento ma qualit  migliore
+  Shifts: Spostamenti
+  Size of segments into which the audio is split. Higher = slower but better quality: Dimensione
+    dei segmenti in cui l'audio   diviso. Pi  alto = pi  lento ma migliore qualit
+  Enable segment-wise processing: Abilita l'elaborazione per segmenti
+  Segment-wise processing: Elaborazione per segmenti
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Traccia 3
+  Stem 4: Traccia 4
+  Stem 5: Traccia 5
+  Stem 6: Traccia 6
+  Select the theme you want to use. (Requires restarting the App): Seleziona il tema
+    che desideri utilizzare. (Richiede il riavvio dell'app)
+  Theme: Tema
+  Themes: Temi
+  Credits: Crediti
+pt:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): Se
+    voc  gosta do UVR5 UI, voc  pode favoritar meu repo em [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Tente
+    UVR5 UI no Hugging Face com A100 [aqui](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Selecione o modelo
+  Select the output format: Selecione o formato de sa da.
+  Larger consumes more resources, but may give better results: Maior consume mais
+    recursos, mas retorna melhores resultados
+  Segment size: Tamanho de segmento
+  Override model default segment size instead of using the model default value: Substituir
+    tamanho de segmento padr o ao inv s de usar valor padr o do modelo
+  Override segment size: Substituir tamanho de segmento
+  Amount of overlap between prediction windows: Quantidade de sobreposi  o entre janelas
+    de previs o
+  Overlap: Sobreposi  o
+  Larger consumes more RAM but may process slightly faster: Maior consome mais RAM,
+    mas processa mais rapido.
+  Batch size: Tamanho do lote
+  The threshold for audio normalization: Limite de normaliza  o para  udio
+  Normalization threshold: Limite de normaliza  o
+  The threshold for audio amplification: Limite para amplica  o para  udio
+  Amplification threshold: Limite para amplica  o
+  Advanced settings: Op  es Avan adas
+  Input audio: udio de entrada
+  Link: Link
+  Paste the link here: Cole o link aqui
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : Voc  pode colar o link de um v deo/ udio de v rios sites, confira a lista [aqui](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separa  o por link
+  Input path: Caminho de entrada
+  Place the input path here: Coloque o caminho de entrada aqui
+  Output path: Caminho de sa da
+  Place the output path here: Coloque o caminho de sa da aqui
+  Separate!: Separar!
+  Output information: Informa  o de sa da
+  Batch separation: Separa  o de lote
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Normalmente
+    chamado stride em redes neurais; Somente altere se souber o que est  fazendo.
+  Hop length: Tamanho do pulo
+  Enable denoising during separation: Ativar redu  o de ru do durante separa  o
+  Denoise: Redu ao de ru do
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balancear
+    qualidade e velocidade. 1024 = R pido porem lento, 320 = Lento porem melhor qualidade
+  Window size: Tamanho da janela
+  Intensity of primary stem extraction: Intensidade da extra  o de stem primaria
+  Agression: Agressividade
+  Enable Test-Time-Augmentation; slow but improves quality: Aumentar tempo de teste;
+    lento mas melhora qualidade
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identificar
+    artefatos restantes na sa da de vocal; Pode melhorar isolamento para algumas m
+    sicas.
+  Post process: P s-processamento
+  Threshold for post-processing: Limite para p s-processamento
+  Post process threshold: Limite de p s-processamento
+  Mirror the missing frequency range of the output: Espelhar a frequ ncia faltante
+    de saida.
+  High end process: Processo de alta qualidade
+  Number of predictions with random shifts, higher = slower but better quality: Numero
+    de previs es com turnos aleatorios, maior = mais lento porem mais qualidade
+  Shifts: Turnos
+  Size of segments into which the audio is split. Higher = slower but better quality: Tamanho
+    de segmentos para cortar o  udio. Maior = Lento porem melhor qualidade
+  Enable segment-wise processing: Ativar Processamento por segmento
+  Segment-wise processing: Processamento por segmento
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Selecione o tema
+    que deseja utilizar. (Requer reiniciar o App)
+  Theme: Tema
+  Themes: Temas
+  Credits: Cr ditos
+ms:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): Jika
+    anda suka UI UVR5, anda boleh bintang repositori saya di [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Cuba
+    UI UVR5 pada Memeluk Wajah dengan A100 [di sini](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Pilih model
+  Select the output format: Pilih format output
+  Larger consumes more resources, but may give better results: Saiz besar menggunakan
+    lebih banyak sumber, tetapi mungkin memberikan hasil yang lebih baik
+  Segment size: Saiz segmen
+  Override model default segment size instead of using the model default value: Gantikan
+    saiz segmen lalai model daripada menggunakan nilai lalai model
+  Override segment size: Gantikan saiz segmen
+  Amount of overlap between prediction windows: Jumlah pertindihan antara tetingkap
+    ramalan
+  Overlap: Pertindihan
+  Larger consumes more RAM but may process slightly faster: Saiz lebih besar menggunakan
+    lebih banyak RAM tetapi mungkin memproses dengan lebih cepat
+  Batch size: Saiz Batch
+  The threshold for audio normalization: Ambang untuk normalisasi audio
+  Normalization threshold: Ambang normalisasi
+  The threshold for audio amplification: Ambang untuk amplifikasi audio
+  Amplification threshold: Ambang amplifikasi
+  Advanced settings: Tetapan lanjutan
+  Input audio: Input audio
+  Link: Pautan
+  Paste the link here: Tampal pautan di sini
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : Anda boleh tampal pautan ke video/audio dari banyak laman, semak senarai lengkap
+    [di sini](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Muat turun!
+  Separation by link: Pemisahan mengikut pautan
+  Input path: Laluan input
+  Place the input path here: Letakkan laluan input di sini
+  Output path: Laluan output
+  Place the output path here: Letakkan laluan output di sini
+  Separate!: Pisahkan!
+  Output information: Maklumat output
+  Batch separation: Pemisahan kelompok
+  Stem 1: Lapis 1
+  Stem 2: Lapis 2
+  Usually called stride in neural networks; only change if you know what you're doing: Biasanya
+    dipanggil langkah dalam rangkaian neural; hanya ubah jika anda tahu apa yang anda
+    lakukan
+  Hop length: Panjang Hop
+  Enable denoising during separation: Aktifkan nyahbunyi semasa pemisahan
+  Denoise: Nyahbunyi
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Imbangkan
+    kualiti dan kelajuan. 1024 = cepat tetapi lebih rendah, 320 = lebih perlahan tetapi
+    kualiti lebih baik
+  Window size: Saiz tetingkap
+  Intensity of primary stem extraction: Intensiti pengekstrakan lapis utama
+  Agression: Kekasaran
+  Enable Test-Time-Augmentation; slow but improves quality: Aktifkan Augmentasi Ujian
+    Masa; perlahan tetapi meningkatkan kualiti
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Kenalpasti
+    artifak sisa dalam keluaran vokal; boleh meningkatkan pemisahan untuk sesetengah
+    lagu
+  Post process: Proses pasca
+  Threshold for post-processing: Ambang untuk pemprosesan pasca
+  Post process threshold: Ambang proses pasca
+  Mirror the missing frequency range of the output: Cerminkan julat frekuensi yang
+    hilang pada output
+  High end process: Proses hujung tinggi
+  Number of predictions with random shifts, higher = slower but better quality: Bilangan
+    ramalan dengan peralihan rawak, lebih tinggi = lebih perlahan tetapi kualiti lebih
+    baik
+  Shifts: Peralihan
+  Size of segments into which the audio is split. Higher = slower but better quality: Saiz
+    segmen di mana audio dipecahkan. Lebih besar = lebih perlahan tetapi kualiti lebih
+    baik
+  Enable segment-wise processing: Aktifkan pemprosesan mengikut segmen
+  Segment-wise processing: Pemprosesan mengikut segmen
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Lapis 3
+  Stem 4: Lapis 4
+  Stem 5: Lapis 5
+  Stem 6: Lapis 6
+  Select the theme you want to use. (Requires restarting the App): Pilih tema yang
+    anda mahu gunakan. (Perlu mulakan semula Aplikasi)
+  Theme: Tema
+  Themes: Tema
+  Credits: Kredit
+id:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): Jika
+    Anda suka UI UVR5, Anda dapat memberikan bintang pada repo saya di [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Coba
+    UVR5 UI di Hugging Face dengan A100 [di sini](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Pilih model
+  Select the output format: Pilih format output
+  Larger consumes more resources, but may give better results: Lebih besar menggunakan
+    lebih banyak sumber daya, tetapi dapat memberikan hasil yang lebih baik
+  Segment size: Ukuran segmen
+  Override model default segment size instead of using the model default value: Ganti
+    ukuran segmen default model alih-alih menggunakan nilai default model
+  Override segment size: Ganti ukuran segmen
+  Amount of overlap between prediction windows: Jumlah tumpang tindih antara jendela
+    prediksi
+  Overlap: Tumpang tindih
+  Larger consumes more RAM but may process slightly faster: Lebih besar mengkonsumsi
+    lebih banyak RAM tetapi mungkin memproses sedikit lebih cepat
+  Batch size: Ukuran batch
+  The threshold for audio normalization: Ambang batas untuk normalisasi audio
+  Normalization threshold: Ambang normalisasi
+  The threshold for audio amplification: Ambang batas untuk amplifikasi audio
+  Amplification threshold: Ambang amplifikasi
+  Advanced settings: Pengaturan lanjutan
+  Input audio: Input audio
+  Link: Tautan
+  Paste the link here: Tempel tautan di sini
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : Anda dapat menempelkan tautan ke video/audio dari banyak situs, lihat daftar lengkap
+    [di sini](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Unduh!
+  Separation by link: Pemisahan berdasarkan tautan
+  Input path: Jalur input
+  Place the input path here: Letakkan jalur input di sini
+  Output path: Jalur output
+  Place the output path here: Tempatkan jalur output di sini
+  Separate!: Pisahkan!
+  Output information: Informasi output
+  Batch separation: Pemisahan batch
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Biasanya
+    disebut langkah dalam jaringan saraf; hanya berubah jika anda tahu apa yang Anda
+    lakukan
+  Hop length: Panjang hop
+  Enable denoising during separation: Aktifkan pengurangan kebisingan selama pemisahan
+  Denoise: Mengurangi kebisingan
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Seimbangkan
+    kualitas dan kecepatan. 1024 = cepat tapi lebih rendah, 320 = lebih lambat tapi
+    kualitasnya lebih baik
+  Window size: Ukuran jendela
+  Intensity of primary stem extraction: Intensitas ekstraksi batang primer
+  Agression: Agresi
+  Enable Test-Time-Augmentation; slow but improves quality: Aktifkan Augmentasi Saat
+    Uji; lambat tetapi meningkatkan kualitas
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identifikasi
+    artefak sisa dalam keluaran vokal; dapat meningkatkan pemisahan untuk beberapa
+    lagu
+  Post process: Proses pasca
+  Threshold for post-processing: Ambang batas untuk pasca-pemrosesan
+  Post process threshold: Ambang batas pasca proses
+  Mirror the missing frequency range of the output: Cerminkan rentang frekuensi yang
+    hilang dari output
+  High end process: Proses Kelas Atas
+  Number of predictions with random shifts, higher = slower but better quality: Jumlah
+    prediksi dengan pergeseran acak, lebih tinggi = lebih lambat tetapi kualitas lebih
+    baik
+  Shifts: Pergeseran
+  Size of segments into which the audio is split. Higher = slower but better quality: Ukuran
+    segmen tempat audio dibagi. Lebih tinggi = lebih lambat tetapi kualitasnya lebih
+    baik
+  Enable segment-wise processing: Aktifkan pemrosesan berdasarkan segmen
+  Segment-wise processing: Pemrosesan berdasarkan segmen
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Pilih tema yang
+    ingin Anda gunakan. (Membutuhkan restart Aplikasi)
+  Theme: Tema
+  Themes: Tema
+  Credits: Kredits
+ru:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): null
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+uk:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+th:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+zh:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+ja:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+ko:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+tr:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
+hi:
+  If you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI): If
+    you like UVR5 UI you can star my repo on [GitHub](https://github.com/Eddycrack864/UVR5-UI)
+  Try UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI): Try
+    UVR5 UI on Hugging Face with A100 [here](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+  Select the model: Select the model
+  Select the output format: Select the output format
+  Larger consumes more resources, but may give better results: Larger consumes more
+    resources, but may give better results
+  Segment size: Segment size
+  Override model default segment size instead of using the model default value: Override
+    model default segment size instead of using the model default value
+  Override segment size: Override segment size
+  Amount of overlap between prediction windows: Amount of overlap between prediction
+    windows
+  Overlap: Overlap
+  Larger consumes more RAM but may process slightly faster: Larger consumes more RAM
+    but may process slightly faster
+  Batch size: Batch size
+  The threshold for audio normalization: The threshold for audio normalization
+  Normalization threshold: Normalization threshold
+  The threshold for audio amplification: The threshold for audio amplification
+  Amplification threshold: Amplification threshold
+  Advanced settings: Advanced settings
+  Input audio: Input audio
+  Link: Link
+  Paste the link here: Paste the link here
+  ? You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  : You can paste the link to the video/audio from many sites, check the complete
+    list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+  Download!: Download!
+  Separation by link: Separation by link
+  Input path: Input path
+  Place the input path here: Place the input path here
+  Output path: Output path
+  Place the output path here: Place the output path here
+  Separate!: Separate!
+  Output information: Output information
+  Batch separation: Batch separation
+  Stem 1: Stem 1
+  Stem 2: Stem 2
+  Usually called stride in neural networks; only change if you know what you're doing: Usually
+    called stride in neural networks; only change if you know what you're doing
+  Hop length: Hop length
+  Enable denoising during separation: Enable denoising during separation
+  Denoise: Denoise
+  Balance quality and speed. 1024 = fast but lower, 320 = slower but better quality: Balance
+    quality and speed. 1024 = fast but lower, 320 = slower but better quality
+  Window size: Window size
+  Intensity of primary stem extraction: Intensity of primary stem extraction
+  Agression: Agression
+  Enable Test-Time-Augmentation; slow but improves quality: Enable Test-Time-Augmentation;
+    slow but improves quality
+  TTA: TTA
+  Identify leftover artifacts within vocal output; may improve separation for some songs: Identify
+    leftover artifacts within vocal output; may improve separation for some songs
+  Post process: Post process
+  Threshold for post-processing: Threshold for post-processing
+  Post process threshold: Post process threshold
+  Mirror the missing frequency range of the output: Mirror the missing frequency range
+    of the output
+  High end process: High end process
+  Number of predictions with random shifts, higher = slower but better quality: Number
+    of predictions with random shifts, higher = slower but better quality
+  Shifts: Shifts
+  Size of segments into which the audio is split. Higher = slower but better quality: Size
+    of segments into which the audio is split. Higher = slower but better quality
+  Enable segment-wise processing: Enable segment-wise processing
+  Segment-wise processing: Segment-wise processing
+  Overlap between prediction windows. Higher = slower but better quality: Overlap
+    between prediction windows. Higher = slower but better quality
+  Stem 3: Stem 3
+  Stem 4: Stem 4
+  Stem 5: Stem 5
+  Stem 6: Stem 6
+  Select the theme you want to use. (Requires restarting the App): Select the theme
+    you want to use. (Requires restarting the App)
+  Theme: Theme
+  Themes: Themes
+  Credits: Credits
