@@ -90,10 +90,10 @@ def read_json():
             elif selected_file == None and class_name:
                 return class_name
             else:
-                return "NoCrypt/miku"
+                return "rottenlittlecreature/Moon_Goblin"
     except Exception as error:
         print(f"An error occurred loading the theme: {error}")
-        return "NoCrypt/miku"
+        return "rottenlittlecreature/Moon_Goblin"
 
 
 def load_json():
