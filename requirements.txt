@@ -1,5 +1,0 @@
-audio-separator[gpu]==0.24.1
-scipy
-gradio==5.7.1
-yt_dlp
-gradio_i18n
